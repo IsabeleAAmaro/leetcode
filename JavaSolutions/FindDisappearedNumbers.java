@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-class Solution1 {
+class FindDisappearedNumbers {
     public List<Integer> findDisappearedNumbers(int[] nums) {
         List<Integer> result = new ArrayList<>();
 
@@ -27,7 +27,7 @@ class Solution1 {
     }
 
     public static void main(String[] args) {
-        Solution1 solution = new Solution1();
+        FindDisappearedNumbers solution = new FindDisappearedNumbers();
 
         int[][] testCases = {
                 {4, 3, 2, 7, 8, 2, 3, 1},  // Example 1
