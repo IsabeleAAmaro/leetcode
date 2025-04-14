@@ -1,3 +1,5 @@
+package JavaSolutions;
+
 import java.util.*;
 
 public class threeSum {

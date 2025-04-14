@@ -1,3 +1,5 @@
+package JavaSolutions;
+
 import java.util.Arrays;
 
 public class CheapestFlightsWithinKStops {
